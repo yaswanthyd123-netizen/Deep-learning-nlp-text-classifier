@@ -1,0 +1,18 @@
+Text: The product is excellent and I am very happy with it.
+Prediction: positive
+Confidence: 54.61%
+Negative probability: 45.39%
+Positive probability: 54.61%
+
+Text: The service was slow and the experience was disappointing.
+Prediction: positive
+Confidence: 54.78%
+Negative probability: 45.22%
+Positive probability: 54.78%
+
+Text: The app is easy to use and works really well.
+Prediction: positive
+Confidence: 55.21%
+Negative probability: 44.79%
+Positive probability: 55.21%
+
